@@ -1,0 +1,41 @@
+{
+  "stringTable": {
+    "0": "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/.externalNativeBuild/cmake/release/x86",
+    "1": "--target=i686-none-linux-android19 --gcc-toolchain=/Users/nongfadai/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/nongfadai/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/nongfadai/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/nongfadai/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nongfadai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/nongfadai/Desktop/GitHub/ndkDemo/app/.externalNativeBuild/cmake/release/x86\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86": {
+      "buildCommand": "/Users/nongfadai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/nongfadai/Desktop/GitHub/ndkDemo/app/.externalNativeBuild/cmake/release/x86\" --target native-lib",
+      "buildType": "release",
+      "toolchain": "3720490332",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "3720490332": {
+      "cppCompilerExecutable": "/Users/nongfadai/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

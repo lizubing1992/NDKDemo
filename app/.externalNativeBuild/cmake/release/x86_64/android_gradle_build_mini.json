@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/nongfadai/Library/Android/sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/Users/nongfadai/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/nongfadai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/nongfadai/Desktop/GitHub/ndkDemo/app/.externalNativeBuild/cmake/release/x86_64\" --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/nongfadai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake --build \"/Users/nongfadai/Desktop/GitHub/ndkDemo/app/.externalNativeBuild/cmake/release/x86_64\" --target native-lib",
+      "abi": "x86_64",
+      "output": "/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+0	453	1576720757	CMakeFiles/native-lib.dir/native-lib.cpp.o	26417f996fbf58a7
+454	540	1576720758	/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	4ca9738890083b52
+2	730	1576737242	CMakeFiles/native-lib.dir/native-lib.cpp.o	26417f996fbf58a7
+730	864	1576737242	/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	4ca9738890083b52
+1	635	1576739190	CMakeFiles/native-lib.dir/native-lib.cpp.o	26417f996fbf58a7
+635	745	1576739190	/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	4ca9738890083b52
+1	847	1576742497	CMakeFiles/native-lib.dir/native-lib.cpp.o	26417f996fbf58a7
+847	959	1576742497	/Users/nongfadai/Desktop/GitHub/ndkDemo/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	4ca9738890083b52
